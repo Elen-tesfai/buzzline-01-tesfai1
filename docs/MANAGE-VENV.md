@@ -37,7 +37,7 @@ Mac/Linux:
 ```zsh
 source .venv/bin/activate
 python3 -m pip install --upgrade pip setuptools wheel
-python3 -m pip install --upgrade -r requirements.
+python3 -m pip install --upgrade -r requirements.txt
 ```
 
 When done, .venv may be large. Allow time.
