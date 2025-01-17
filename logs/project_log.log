@@ -1,0 +1,6 @@
+2025-01-16 23:10:57.947 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-16 23:10:57.948 | INFO     | __main__:main:84 - START producer...
+2025-01-16 23:10:57.949 | INFO     | __main__:main:85 - Hit CTRL c (or CMD c) to close.
+2025-01-16 23:10:57.949 | INFO     | __main__:get_message_interval:40 - Messages will be sent every 3 seconds.
+2025-01-16 23:10:57.950 | INFO     | __main__:main:91 - I explored a coding challenge at home. It made me feel joyful!
+2025-01-16 23:11:00.952 | INFO     | __main__:main:91 - I explored a poem during a road trip. It made me feel mysterious!
