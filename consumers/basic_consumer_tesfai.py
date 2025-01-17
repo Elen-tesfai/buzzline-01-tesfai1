@@ -61,6 +61,9 @@ def process_message(log_file) -> None:
                 print(f"INFO: Regular buzz message: {message}")
                 logger.info(f"Regular Buzz: {message}")
 
+            # Add a small delay before consuming the next message to slow down processing
+            time.sleep(1)  # This adds a 1-second delay after each log message
+
 
 #####################################
 # Define main function for this script.
@@ -92,3 +95,4 @@ def main() -> None:
 # If this file is the one being executed, call the main() function
 if __name__ == "__main__":
     main()
+    
